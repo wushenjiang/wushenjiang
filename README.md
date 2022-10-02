@@ -4,3 +4,5 @@
 一个普通的 okaku && programmer~<br/>
 a common otaku && programmer~
 ### 最近更新 last update
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
