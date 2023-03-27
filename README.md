@@ -5,11 +5,11 @@
 I am wushenjiang,a common otaku && programmer.aiming at being a common.
 ### 最近更新 last update
 <!-- BLOG-POST-LIST:START -->
+- [Go语言基础（二） - 武神酱丶](https://www.cnblogs.com/wushenjiang/p/17259699.html)
 - [Go语言基础（一） - 武神酱丶](https://www.cnblogs.com/wushenjiang/p/17181228.html)
 - [《高效能人士的七个习惯》读后感 - 武神酱丶](https://www.cnblogs.com/wushenjiang/p/16860832.html)
 - [Java中的函数式编程 - 武神酱丶](https://www.cnblogs.com/wushenjiang/p/16782907.html)
 - [GEF框架学习（2） - 武神酱丶](https://www.cnblogs.com/wushenjiang/p/16535767.html)
-- [GEF框架学习（1） - 武神酱丶](https://www.cnblogs.com/wushenjiang/p/16526781.html)
 <!-- BLOG-POST-LIST:END -->
 ### 技术栈 Tech Stack
 #### 后端 Backend
